@@ -1,0 +1,25 @@
+*{
+    border:solid;
+    border-color: indigo;
+    background-color: black;
+    color:white;
+}
+.topic{
+    background-color: rgb(26, 13, 8);
+}
+.link{
+    background-color: rgb(0, 0, 0);
+}
+.chameleont{
+    justify-content:center;
+    display:flex;
+    flex-wrap:wrap;
+}
+.chameleon{
+    border-color:white;
+}
+
+.pigeon{
+    text-align:right;
+    
+}
